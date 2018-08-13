@@ -21,6 +21,7 @@ public class RegistrationServlet extends HttpServlet {
         printWrite.print("<html><body>");
         printWrite.print("<h1>welcome</h1>");
         printWrite.print("</html></body>");
+        printWrite.print("Sruthi");
 
 
 //        RequestDispatcher requestDispatcher = req.getRequestDispatcher("/Login.jsp");
